@@ -1,4 +1,3 @@
-# US-Vaccination-Tracker
 # Visualizing US Vaccination Data using Folium
 This project visualizes the percentage of vaccinated population in each state of the US on a map using the Folium library. The user can choose a specific date and the code calculates the percentage of the US population vaccinated on that date. The project uses two datasets, one for population data and the other for vaccination data. The code merges the two datasets to get the required information for visualizing the map.
 
